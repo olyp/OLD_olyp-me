@@ -1,0 +1,10 @@
+{
+  "name": "olyp-me",
+  "version": "0.1.0",
+  "description": "OLYP user app",
+  "author": "August Lilleaas <august@augustl.com>",
+  "license": "BSD 3-clause",
+  "dependencies": {
+    "express": "^4.10.0"
+  }
+}
