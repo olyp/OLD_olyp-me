@@ -5,6 +5,7 @@
   "author": "August Lilleaas <august@augustl.com>",
   "license": "BSD 3-clause",
   "dependencies": {
+    "ejs": "^1.0.0",
     "express": "^4.10.0"
   }
 }
